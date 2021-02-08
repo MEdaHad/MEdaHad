@@ -2,8 +2,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I'm currently studying Computer Science and Mathematics at the University of Massachusetts Amherst.\
+💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> \
 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.\
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at rioticcode@gmail.com! I'll try to respond as soon as I can.\
@@ -52,30 +51,6 @@
 <a href="https://instagram.com/Medhanye_"><img src="https://img.shields.io/badge/-@Medhanye_-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://facebook.com/MedhaneHadush"><img src="https://img.shields.io/badge/-@Medhanye_-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 </p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<br>
-<br>
-
-### Things I love:
-- Python <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-- Full Stack Development ✍️
-- Machine Learning 🧐
-- Data Science 😬
 
 ### :zap: Github Stats
 <p>
