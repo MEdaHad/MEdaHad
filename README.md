@@ -35,12 +35,12 @@
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 ![InDesign](https://img.shields.io/badge/-InDesign-05122A?style=flat&logo=adobe-indesign)
 
-### ⚙️ &nbsp;GitHub Analytics
+### ⚙️ :zap: &nbsp;GitHub Analytics
 
 <p align="center">
 <a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MEdaHad&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MEdaHad&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MEdaHad&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MEdaHad&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
@@ -53,12 +53,6 @@
 <a href="https://facebook.com/MedhaneHadush"><img src="https://img.shields.io/badge/-@Medhanye_-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 </p>
 
-### :zap: Github Stats
-<p>
-    <a href="https://gitstats.me/MEdaHad" target="_blank"> 
-        <img src="https://github-readme-stats.vercel.app/api?username=MEdaHad&&show_icons=true&hi&theme=dark&count_private=true&include_all_commits=true">
-    </a>
-</p>
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=varadbhogayata&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 <div align="center">
