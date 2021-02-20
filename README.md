@@ -6,7 +6,7 @@
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> \
 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.\
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
-✉️ &nbsp;You can shoot me an email at rioticcode@gmail.com! I'll try to respond as soon as I can.\
+✉️ &nbsp;You can shoot me an email at rioticcoder@gmail.com! I'll try to respond as soon as I can.\
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
