@@ -1,6 +1,6 @@
 <h2>👋 &nbsp;Hey there! I'm Medhanye </h2>
 
-### 👨🏻‍💻 &nbsp;About Me
+### 👨🏻‍💻 &nbsp;About Me [CV](https://drive.google.com/file/d/1wBuZ0UUWGMFNRGPIxhNDB6SOR8LzBsVM/view?usp=sharing)
 
 🎯 Portfolio website: [Portfolio](https://medahad.github.io/)                 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> \
