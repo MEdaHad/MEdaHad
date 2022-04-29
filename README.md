@@ -1,4 +1,4 @@
-<h2>👋 &nbsp;Hey there! I'm Medhanye </h2>
+<h2>👋 &nbsp;Hey there! I'm Medhane </h2>
 
 ### 👨🏻‍💻 &nbsp;About Me
 
