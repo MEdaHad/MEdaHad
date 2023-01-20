@@ -1,9 +1,9 @@
 <h2>👋 &nbsp;Hey there! I'm Medhane </h2>
 
-### 👨🏻‍💻 &nbsp;About Me
+### 👨🏻‍💻 &nbsp;About [ME](https://medahad.github.io/) 
 
-🎯 Portfolio website: [Portfolio](https://medahad.github.io/)                 
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks. and I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.\<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> \
+               
+💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks. and I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.\<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" \
 
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
