@@ -32,7 +32,7 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://linkedin.com/in/medhane-hadush/"><img src="https://www.linkedin.com/in/medhane-hadush/?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://linkedin.com/in/medhane-hadush/"><img src="https://img.shields.io/badge/Medhane-Hadush-blue/?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:medhanehd@gmail.com"><img src="https://img.shields.io/badge/-rioticcoder@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://instagram.com/Medahad"><img src="https://img.shields.io/badge/-@Medahad_-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://facebook.com/MedhaneHadush"><img src="https://img.shields.io/badge/-@Medhane_-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
