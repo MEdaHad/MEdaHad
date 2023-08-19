@@ -3,7 +3,7 @@
 ### 👨🏻‍💻 &nbsp;About [ME](https://medahad.github.io/) 
 
                
-💡 &nbsp;I like to explore new Technologies and develop software solutions and quick hacks. I'm on track for learning more about AI, Cybersecurity and Cloud Architecture.
+💡 &nbsp; Cracking codes and toying with loopholes is my cybersecurity game!
 
 
 <br><img align="left" src="https://github-readme-stats.vercel.app/api?username=medahad&count_private=true&show_icons=true&theme=chartreuse-dark" style='width:360px'><img style='width:360px' align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hktalent&layout=compact&theme=chartreuse-dark&langs_count=8">
