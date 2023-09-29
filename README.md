@@ -20,7 +20,7 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 
 
-[![Tweet](https://img.shields.io/twitter/url/http/techninja_.svg?style=social)](https://twitter.com/intent/follow?screen_name=techninja_) [![GitHub Followers](https://img.shields.io/github/followers/medahad.svg?style=social&label=Follow)](https://github.com/hktalent/)
+[![Tweet](https://img.shields.io/twitter/url/http/techninja_.svg?style=social)](https://twitter.com/intent/follow?screen_name=techninja_) [![GitHub Followers](https://img.shields.io/github/followers/medahad.svg?style=social&label=Follow)](https://github.com/medahad/)
 <p>
 <a href="https://linkedin.com/in/medhane-hadush/"><img src="https://img.shields.io/badge/Medhane-Hadush-blue/?style=flat&logo=Linkedin&logoColor=white"/></a>
 </p>
