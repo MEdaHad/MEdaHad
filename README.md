@@ -1,9 +1,8 @@
 <h2>👋 &nbsp;Hey there! Welcome </h2>
 
-### 👨🏻‍💻 &nbsp;About [ME](https://medahad.github.io/) 
+### 👨🏻‍💻 &nbsp;More of [ME](https://medahad.github.io/) 
 
-               
- &nbsp; Cracking codes and toying with loopholes is my cybersecurity game!
+
 
 
 
