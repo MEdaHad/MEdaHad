@@ -3,11 +3,8 @@
 ### 👨🏻‍💻 &nbsp;About [ME](https://medahad.github.io/) 
 
                
-💡 &nbsp; Cracking codes and toying with loopholes is my cybersecurity game!
+ &nbsp; Cracking codes and toying with loopholes is my cybersecurity game!
 
-
-<br><img align="left" src="https://github-readme-stats.vercel.app/api?username=medahad&count_private=true&show_icons=true&theme=chartreuse-dark" style='width:360px'><img style='width:360px' align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hktalent&layout=compact&theme=chartreuse-dark&langs_count=8">
-<br>
 
 
 <br>
@@ -20,16 +17,12 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 
 
-[![Tweet](https://img.shields.io/twitter/url/http/techninja_.svg?style=social)](https://twitter.com/intent/follow?screen_name=techninja_) [![GitHub Followers](https://img.shields.io/github/followers/medahad.svg?style=social&label=Follow)](https://github.com/medahad/)
+[![GitHub Followers](https://img.shields.io/github/followers/medahad.svg?style=social&label=Follow)](https://github.com/medahad/)
 <p>
 <a href="https://linkedin.com/in/medhane-hadush/"><img src="https://img.shields.io/badge/Medhane-Hadush-blue/?style=flat&logo=Linkedin&logoColor=white"/></a>
 </p>
 
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=varadbhogayata&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
-<div align="center">
-<h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
 
 <!--[website]: -->
 [linkedin]: https://www.linkedin.com/in/medhane-hadush/
-[Twitter]: https://twitter.com/Medhanye_
