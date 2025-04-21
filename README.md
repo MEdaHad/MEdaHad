@@ -3,14 +3,6 @@
 ### 👨🏻‍💻 &nbsp;More of [ME](https://medahad.github.io/) 
 
 
-
-
-
-<br>
-<img align=left src=https://profile-counter.glitch.me/MEDAHAD/count.svg>
-<br>
-
-
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
