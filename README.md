@@ -3,6 +3,6 @@
 
 ---
 
-- 🔐 Building & Defending System 
+- 🔐 Building & Defending Systems
 - 💻 5+ years experience in Cybersecurity & Software Development
 - 🌐 [Portfolio](https://medahad.github.io/) • [LinkedIn](https://linkedin.com/in/medhane-hadush/) • [GitHub](https://github.com/medahad)
